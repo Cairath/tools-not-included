@@ -1,4 +1,16 @@
 # Changelog
+### 19 August 2019
+* Graphical overhaul
+* Mod updates: both automatic and manual versions to v2
+  * Moved generating visualization of the world map to the mod - upload per map might be a bit longer, but the server should be more stable now
+  * Added error handling (automatic restart) in the automatic mod when map generation error occurs and the game gets stuck on 'Let's try that again'
+  * Fixed a bug in the manual uploader that would generate incorrect map visualizations on consecutive uploads. Unfortunately some maps had to be removed (2%).
+* Moved World Trait generation tools to the client side (browser)
+  * It's now quicker
+  * It doesn't bother the server ;)
+* World traits are now colored! Yay for colors
+* World trait tools: added generating traits for a given seed number in addition to finding seed numbers 
+
 ### 6 August 2019
 * Fixed reading config in the automatic mod (still v1)
 

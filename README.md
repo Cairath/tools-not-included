@@ -27,16 +27,29 @@ If you like the website and would like to say thanks and/or contribute to the se
 <a name="changelog"></a>
 # Changelog
 <a name="changelog-august-2019"></a>
+### 19 August 2019
+* Graphical overhaul
+* Mod updates: both automatic and manual versions to v2
+  * Moved generating visualization of the world map to the mod - upload per map might be a bit longer, but the server should be more stable now
+  * Added error handling (automatic restart) in the automatic mod when map generation error occurs and the game gets stuck on 'Let's try that again'
+  * Fixed a bug in the manual uploader that would generate incorrect map visualizations on consecutive uploads. Unfortunately some maps had to be removed (2%).
+* Moved World Trait generation tools to the client side (browser)
+  * It's now quicker
+  * It doesn't bother the server ;)
+* World traits are now colored! Yay for colors
+* World trait tools: added generating traits for a given seed number in addition to finding seed numbers 
+
+<a name="changelog-august-2019-1"></a>
 ### 6 August 2019
 * Fixed reading config in the automatic mod (still v1)
 
-<a name="changelog-august-2019-1"></a>
+<a name="changelog-august-2019-2"></a>
 ### 5 August 2019
 * Removed automatic mod version from Steam (v1)
 * Added manual mod version to Steam (v1)
 * Uploaded automatic mod version to the website, includes auto-restarter every X maps (v1)
 
-<a name="changelog-august-2019-2"></a>
+<a name="changelog-august-2019-3"></a>
 ### 4 August 2019
 * Added filtering by traits to the map search rules
 * Added instructions how to use maps
@@ -109,4 +122,4 @@ Initial demo release
 \
 \
 \
-<span style="color: gray; font-size: 0.7em;">Last readme update: Sunday, 18th August 2019, 2:36 am</span>
+<span style="color: gray; font-size: 0.7em;">Last readme update: Monday, 19th August 2019, 12:49 am</span>
