@@ -7,8 +7,8 @@ The Map Browser is a place for people to browse and share game world maps. The m
 The map can be uploaded to the database using the [dedicated mods](https://toolsnotincluded.net/map-tools/map-browser/contribute)
 
 ### Current mod versions
-* Manual mod: v1 (5th Aug 2019)
-* Automatic mod: v1 (6th Aug 2019)
+* Manual mod: v2 (19th Aug 2019)
+* Automatic mod: v2 (19th Aug 2019)
 
 ## [World Trait Tools](https://toolsnotincluded.net/map-tools/world-trait-finder)
 World Trait tools provide info about existing world traits, allow generating seed numbers with specified sets of traits and checking traits for a given seed number.

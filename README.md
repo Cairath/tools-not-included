@@ -10,8 +10,8 @@ The map can be uploaded to the database using the [dedicated mods](https://tools
 
 <a name="tools-not-included-map-browser-https-toolsnotincluded-net-map-tools-map-browser-current-mod-versions"></a>
 ### Current mod versions
-* Manual mod: v1 (5th Aug 2019)
-* Automatic mod: v1 (6th Aug 2019)
+* Manual mod: v2 (19th Aug 2019)
+* Automatic mod: v2 (19th Aug 2019)
 
 <a name="tools-not-included-world-trait-tools-https-toolsnotincluded-net-map-tools-world-trait-finder"></a>
 ## <a href="https://toolsnotincluded.net/map-tools/world-trait-finder">World Trait Tools</a>
@@ -122,4 +122,4 @@ Initial demo release
 \
 \
 \
-<span style="color: gray; font-size: 0.7em;">Last readme update: Monday, 19th August 2019, 12:49 am</span>
+<span style="color: gray; font-size: 0.7em;">Last readme update: Monday, 19th August 2019, 12:51 am</span>
