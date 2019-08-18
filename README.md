@@ -1,29 +1,58 @@
-[![](https://img.shields.io/discord/522855083151720466.svg?label=Discord&style=flat-square)](https://discord.gg/7wNFaVd)  
-
 <a name="tools-not-included"></a>
 # Tools Not Included
 Tools Not Included (https://toolsnotincluded.net) is a website with tools for the game [Oxygen Not Included](https://klei.com/games/oxygen-not-included) by Klei.
-Currently it features a [Seed Browser](#tools-not-included-seed-browser) but will be expanded with more tools in the future.
+Currently it features a [Map Browser](#tools-not-included-seed-browser) and [World Trait Tools]() but will be expanded with more tools in the future.
 
-<a name="tools-not-included-seed-browser-https-toolsnotincluded-net-seeds"></a>
-## <a href="https://toolsnotincluded.net/seeds">Seed Browser</a>
-The Seed Browser is a place for people to browse and share game world seeds. The seeds can be filtered by a set of rules: combination of counts of geysers, planets or geyser outputs.  
-The seeds can be uploaded to the database using the [dedicated mods](https://toolsnotincluded.net/seeds/modinfo)
+<a name="tools-not-included-map-browser-https-toolsnotincluded-net-map-tools-map-browser"></a>
+## <a href="https://toolsnotincluded.net/map-tools/map-browser">Map Browser</a>
+The Map Browser is a place for people to browse and share game world maps. The maps can be filtered by a set of rules: combination of counts of geysers, planets, geyser outputs or world traits.  
+The map can be uploaded to the database using the [dedicated mods](https://toolsnotincluded.net/map-tools/map-browser/contribute)
 
-<a name="tools-not-included-seed-browser-https-toolsnotincluded-net-seeds-current-mod-versions"></a>
+<a name="tools-not-included-map-browser-https-toolsnotincluded-net-map-tools-map-browser-current-mod-versions"></a>
 ### Current mod versions
-* Manual mod: 1.0 m (8th Jan 2019)
-* Automatic mod: 1.0 a (8th Jan 2019)
+* Manual mod: v1 (5th Aug 2019)
+* Automatic mod: v1 (6th Aug 2019)
+
+<a name="tools-not-included-world-trait-tools-https-toolsnotincluded-net-map-tools-world-trait-finder"></a>
+## <a href="https://toolsnotincluded.net/map-tools/world-trait-finder">World Trait Tools</a>
+World Trait tools provide info about existing world traits, allow generating seed numbers with specified sets of traits and checking traits for a given seed number.
 
 <a name="support"></a>
 # Support
-If you like the website and would like to say thanks and/or contribute to the server costs please consider supporting me on Patreon\
+If you like the website and would like to say thanks and/or contribute to the server costs please consider supporting me on Patreon!\
 \
 [![image](/.README/patreon_button.png)](https://www.patreon.com/bePatron?u=16290546)
 \
 \
 <a name="changelog"></a>
 # Changelog
+<a name="changelog-august-2019"></a>
+### 6 August 2019
+* Fixed reading config in the automatic mod (still v1)
+
+<a name="changelog-august-2019-1"></a>
+### 5 August 2019
+* Removed automatic mod version from Steam (v1)
+* Added manual mod version to Steam (v1)
+* Uploaded automatic mod version to the website, includes auto-restarter every X maps (v1)
+
+<a name="changelog-august-2019-2"></a>
+### 4 August 2019
+* Added filtering by traits to the map search rules
+* Added instructions how to use maps
+
+<a name="changelog-july-2019"></a>
+### 30 July 2019
+Huge revamp for the Launch Upgrade!
+* Multiple asteroid support
+* Trait Finder
+* Tracking Neural Vacillator, AETN and Printing Pod locations
+* Performance optimizations
+
+<a name="changelog-february-2019"></a>
+### 21 February 2019
+* Released version 1.1 of the Automated Mod
+
 <a name="changelog-january-2019"></a>
 ### 27 January 2019
 * 'Reset all rules' now correctly resets also seed number  
@@ -32,7 +61,6 @@ For seeds collected since 7th Jan:
 * Added a world and geyser visual map 
 * Added world element composition - total masses in starting biome and all biomes
 * Added biome size list
-
 
 <a name="changelog-january-2019-1"></a>
 ### 12 January 2019
@@ -53,7 +81,7 @@ Out of beta! Yay! Due to world element composition being collected, worlds uploa
 * Seed details page shows a star map
 * Various performance improvements
 
-From now on, two mods will be maintained: manual and automatic. Automatic version (aka the seed miner - not suitable for playing, seed uploading only) works in background and automatically generates and uploads new worlds without interaction. For more information please refer to the [Mod Info Page](https://toolsnotincluded.net/seeds/modinfo)
+From now on, two mods will be maintained: manual and automatic. Automatic version (aka the seed miner - not suitable for playing, seed uploading only) works in background and automatically generates and uploads new worlds without interaction. For more information please refer to the [Mod Info Page](https://toolsnotincluded.net/map-tools/map-browser/contribute)
 * Mod versions 1.0a(utomatic) and 1.0m(anual):
   * Mods do not require debug mode anymore
   * Collecting data about world element composition
@@ -81,4 +109,4 @@ Initial demo release
 \
 \
 \
-<span style="color: gray; font-size: 0.7em;">Last readme update: Saturday, 9th February 2019, 12:29 pm</span>
+<span style="color: gray; font-size: 0.7em;">Last readme update: Sunday, 18th August 2019, 2:36 am</span>

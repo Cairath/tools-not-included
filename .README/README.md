@@ -1,19 +1,20 @@
-[![](https://img.shields.io/discord/522855083151720466.svg?label=Discord&style=flat-square)](https://discord.gg/7wNFaVd)  
-
 # Tools Not Included
 Tools Not Included (https://toolsnotincluded.net) is a website with tools for the game [Oxygen Not Included](https://klei.com/games/oxygen-not-included) by Klei.
-Currently it features a [Seed Browser](#tools-not-included-seed-browser) but will be expanded with more tools in the future.
+Currently it features a [Map Browser](#tools-not-included-seed-browser) and [World Trait Tools]() but will be expanded with more tools in the future.
 
-## [Seed Browser](https://toolsnotincluded.net/seeds)
-The Seed Browser is a place for people to browse and share game world seeds. The seeds can be filtered by a set of rules: combination of counts of geysers, planets or geyser outputs.  
-The seeds can be uploaded to the database using the [dedicated mods](https://toolsnotincluded.net/seeds/modinfo)
+## [Map Browser](https://toolsnotincluded.net/map-tools/map-browser)
+The Map Browser is a place for people to browse and share game world maps. The maps can be filtered by a set of rules: combination of counts of geysers, planets, geyser outputs or world traits.  
+The map can be uploaded to the database using the [dedicated mods](https://toolsnotincluded.net/map-tools/map-browser/contribute)
 
 ### Current mod versions
-* Manual mod: 1.0 m (8th Jan 2019)
-* Automatic mod: 1.0 a (8th Jan 2019)
+* Manual mod: v1 (5th Aug 2019)
+* Automatic mod: v1 (6th Aug 2019)
+
+## [World Trait Tools](https://toolsnotincluded.net/map-tools/world-trait-finder)
+World Trait tools provide info about existing world traits, allow generating seed numbers with specified sets of traits and checking traits for a given seed number.
 
 # Support
-If you like the website and would like to say thanks and/or contribute to the server costs please consider supporting me on Patreon\
+If you like the website and would like to say thanks and/or contribute to the server costs please consider supporting me on Patreon!\
 \
 [![image](/.README/patreon_button.png)](https://www.patreon.com/bePatron?u=16290546)
 \
