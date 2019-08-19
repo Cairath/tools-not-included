@@ -38,6 +38,7 @@ If you like the website and would like to say thanks and/or contribute to the se
   * It doesn't bother the server ;)
 * World traits are now colored! Yay for colors
 * World trait tools: added generating traits for a given seed number in addition to finding seed numbers 
+* Hovering over a planet on the Star Map will now display a list of resources that exist on that planet type
 
 <a name="changelog-august-2019-1"></a>
 ### 6 August 2019
@@ -122,4 +123,4 @@ Initial demo release
 \
 \
 \
-<span style="color: gray; font-size: 0.7em;">Last readme update: Monday, 19th August 2019, 12:51 am</span>
+<span style="color: gray; font-size: 0.7em;">Last readme update: Monday, 19th August 2019, 9:24 am</span>

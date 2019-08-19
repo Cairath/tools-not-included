@@ -10,6 +10,7 @@
   * It doesn't bother the server ;)
 * World traits are now colored! Yay for colors
 * World trait tools: added generating traits for a given seed number in addition to finding seed numbers 
+* Hovering over a planet on the Star Map will now display a list of resources that exist on that planet type
 
 ### 6 August 2019
 * Fixed reading config in the automatic mod (still v1)
