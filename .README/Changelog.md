@@ -1,4 +1,8 @@
 # Changelog
+### 22 August 2019
+* Trait filter doesn't allow selecting mutually exclusive traits anymore
+* Fixed swapped Geoactive and Geodormant trait colors
+
 ### 19 August 2019
 * Graphical overhaul
 * Mod updates: both automatic and manual versions to v2
